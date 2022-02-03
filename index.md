@@ -6,12 +6,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-# Header 1
-**Izveidoju savy Github page
+# Izveidoju savu Github page
 
-* Bija jāidzveido repozotorijs
-* Bija jāizveido GitHub Page
-* Bija jāizveido apraksts markdown valodā
+* Bija jāidzveido repozotorijs :alien:
+* Bija jāizveido GitHub Page :japanese_ogre:	
+* Bija jāizveido apraksts markdown valodā :robot:
+
+![This is an image](https://st4.depositphotos.com/18014766/28577/i/600/depositphotos_285779578-stock-photo-github-with-abstract-technology-binary.jpg)
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
